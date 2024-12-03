@@ -6,4 +6,5 @@ In addition to the minimal requirements, an enhancement has been added to improv
 
 User Output Display: Each user's output is now visually displayed above their head, providing immediate feedback and a more intuitive experience.
 
-![image](https://github.com/user-attachments/assets/978577f3-05b6-4064-9246-f2e5ad79a5bb)
+![image](https://github.com/user-attachments/assets/3c941808-bb45-4e37-9f54-aebcd6718cdb)
+
